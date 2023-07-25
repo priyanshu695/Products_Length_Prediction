@@ -1,0 +1,3 @@
+Loaded the datasets after importing the libraries, encoded the text fields 
+Used tfidf for description text field
+used ridge regression for the prediction of the product length
